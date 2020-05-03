@@ -1,0 +1,1 @@
+This is text 2 file to see how things work in GIT.
